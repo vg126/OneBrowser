@@ -23,7 +23,7 @@ OneBrowser is a revolutionary browser-based AI orchestration system that elimina
 ## Architecture
 
 **Two-Layer Design:**
-1. **Flask Secretary** - API orchestration and context-pool intelligence
+1. **Poe Secretary** - API orchestration and context-pool intelligence
 2. **Browser Overlay Interface** - Visual orchestration with constellation navigation
 
 ## Current Status
